@@ -36,4 +36,4 @@ Data analysis tasks in Python.
 * binary classification using a simple perceptron
 * creation of a neural network and training
 * using a neural network to determine whether a given object is an object of a specific class of target variable
-* 
+
